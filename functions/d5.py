@@ -10,5 +10,5 @@ def calculator(a , b , operation):
   else:
     print("invalid response")
 
-here = calculator(7,1 ,"divide")
+here = calculator(7,1 , "add")
 print(here)
